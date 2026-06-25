@@ -1,0 +1,12 @@
+Las APIs actúan como puentes digitales que permiten conectar distintas aplicaciones de 
+forma automatizada, estructurando la información bajo reglas claras para que no se pierda 
+nada en el camino. Al estandarizar la forma en que se envían los datos, una comunidad puede 
+crear formularios sencillos donde los reportes de los vecinos —como alertas de seguridad o 
+daños en la vía pública— lleguen directamente a una base de datos centralizada sin 
+intervención manual. Además, esta misma tecnología facilita la integración con canales 
+de difusión automáticos, logrando que una alerta crítica se replique instantáneamente en 
+un mapa vecinal, un bot de WhatsApp o una cuenta comunitaria de redes sociales. Así, 
+se evita el desorden de los mensajes dispersos y se garantiza que la información sea pública, 
+transparente y fácil de consultar en tiempo real. Esto optimiza los tiempos de respuesta y 
+empodera a los ciudadanos, transformando la colaboración vecinal en una gestión organizada, 
+eficiente y con un impacto directo en la convivencia del barrio.

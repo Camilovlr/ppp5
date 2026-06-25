@@ -1,0 +1,7 @@
+Esta ruta de tipo POST recibe la información que un usuario envía a la dirección 
+/reporte (como una queja o alerta), extrae el texto del cuerpo del mensaje 
+(req.body.mensaje) y responde automáticamente confirmando que fue recibido con éxito. 
+En una aplicación comunitaria, sirve como un canal directo de participación ciudadana 
+para que los vecinos reporten problemas del barrio en tiempo real —como un bache o una 
+luminaria rota—, permitiendo que el servidor registre el caso al instante y les confirme 
+que su reporte ya está en proceso de atención.
